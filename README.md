@@ -1,6 +1,6 @@
 # Appointment Planner
 
-A React Challenge Project for saving contact info and scheduling appoinments.
+A React Challenge Project for saving contact info and scheduling appoinments. Check out the project live [here](https://myappointmentplanner.netlify.app/).
 
 ## Screenshot
 
